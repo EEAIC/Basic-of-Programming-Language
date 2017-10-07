@@ -1,6 +1,6 @@
 public class UsingMethod {
     public static void main(String[] args){
-        Method method = new Method();
+        Method1 method = new Method1();
         method.method1();
         method.method2(10);
         int value = method.method3();
